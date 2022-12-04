@@ -1,0 +1,16 @@
+current directory: /Users/becca9941/prag-studio/rails-course/eventz/vendor/bundle/ruby/3.0.0/gems/debug-1.7.0/ext/debug
+/Users/becca9941/.rbenv/versions/3.0.4/bin/ruby -I /Users/becca9941/.rbenv/versions/3.0.4/lib/ruby/3.0.0 -r ./siteconf20221204-1441-z23lev.rb extconf.rb
+creating Makefile
+
+current directory: /Users/becca9941/prag-studio/rails-course/eventz/vendor/bundle/ruby/3.0.0/gems/debug-1.7.0/ext/debug
+make DESTDIR\= clean
+
+current directory: /Users/becca9941/prag-studio/rails-course/eventz/vendor/bundle/ruby/3.0.0/gems/debug-1.7.0/ext/debug
+make DESTDIR\=
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.bundle
+
+current directory: /Users/becca9941/prag-studio/rails-course/eventz/vendor/bundle/ruby/3.0.0/gems/debug-1.7.0/ext/debug
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 debug.bundle ./.gem.20221204-1441-rn1j98/debug

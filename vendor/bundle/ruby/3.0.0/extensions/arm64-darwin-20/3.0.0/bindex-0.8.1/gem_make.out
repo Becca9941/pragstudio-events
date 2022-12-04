@@ -1,0 +1,15 @@
+current directory: /Users/becca9941/prag-studio/rails-course/eventz/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/becca9941/.rbenv/versions/3.0.4/bin/ruby -I /Users/becca9941/.rbenv/versions/3.0.4/lib/ruby/3.0.0 -r ./siteconf20221204-1441-legww7.rb extconf.rb
+creating Makefile
+
+current directory: /Users/becca9941/prag-studio/rails-course/eventz/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= clean
+
+current directory: /Users/becca9941/prag-studio/rails-course/eventz/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\=
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/becca9941/prag-studio/rails-course/eventz/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20221204-1441-iudd4k/skiptrace/internal
