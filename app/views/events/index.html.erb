@@ -4,7 +4,7 @@
   <% @events.each do |event| %>
     <li>
       <strong><%= event.name %></strong>
-      in <% event.location %>:
+      in <%= event.location %>:
       <%= number_to_currency(event.price, precision: 0) %>
     </li>
   <% end %>
